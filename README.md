@@ -1,5 +1,7 @@
 # Source Identifier Sanitizer
-Simple Firefox extension that removes the Source Identifier parameter from YouTube share links
+Simple addon for Firefox that removes the Source Identifier parameter from YouTube share links.
+
+To install it from the Firefox add-on store, click on [this link](https://addons.mozilla.org/en-US/firefox/addon/source-identifier-sanitizer/)
 
 You can also click on the extension icon to manually sanitize links from other websites.
 
