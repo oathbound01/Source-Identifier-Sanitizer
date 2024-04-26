@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Source Identifier Sanitizer",
-    "version": "0.2",
+    "version": "0.3",
     "description": "Removes the Source Identifier parameter from YouTube links created with the Share button.",
     "icons": {
         "16": "icon16.png",
